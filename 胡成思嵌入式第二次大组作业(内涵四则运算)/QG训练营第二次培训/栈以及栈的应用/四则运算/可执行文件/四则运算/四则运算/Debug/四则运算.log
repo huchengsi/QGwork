@@ -1,0 +1,54 @@
+﻿  calculator.c
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(39): warning C4133: “函数”: 从“LinkSymbolStack *”到“LinkStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(47): warning C4101: “clr”: 未引用的局部变量
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(106): warning C4133: “函数”: 从“LinkSymbolPtr”到“LinkStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(117): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(117): note: 请考虑在格式字符串中使用“%hhd”
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(118): warning C4133: “函数”: 从“LinkSymbolPtr”到“LinkStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(127): warning C4133: “函数”: 从“LinkSymbolPtr”到“LinkSymbolStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(167): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(188): warning C4101: “clr”: 未引用的局部变量
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(218): warning C4047: “初始化”:“StackNode *”与“LinkStackPtr *”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(246): warning C4133: “函数”: 从“LinkStackPtr”到“LinkStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(257): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“ElemType *”
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(258): warning C4133: “函数”: 从“LinkStackPtr”到“LinkStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(259): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(266): warning C4133: “函数”: 从“LinkStackPtr”到“LinkStack *”的类型不兼容
+  main.c
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(37): warning C4013: “strlen”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(43): warning C4013: “judgedigit”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(43): warning C4013: “judgechar”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(49): warning C4013: “memcpy”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(51): warning C4244: “函数”: 从“double”转换到“ElemType”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(67): warning C4013: “judgerank”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(79): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(79): warning C4133: “函数”: 从“LinkSymbolStack *”到“LinkSymbolPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(96): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(96): warning C4133: “函数”: 从“LinkSymbolStack *”到“LinkSymbolPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(98): warning C4133: “函数”: 从“LinkSymbolStack *”到“LinkSymbolPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(113): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(113): warning C4133: “函数”: 从“LinkSymbolStack *”到“LinkSymbolPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(113): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(120): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(120): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(121): warning C4133: “函数”: 从“LinkStack *”到“LinkStackPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(122): warning C4133: “函数”: 从“LinkSymbolStack *”到“LinkSymbolPtr”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(27): warning C4133: “初始化”: 从“LinkStackPtr”到“LinkStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(28): warning C4133: “初始化”: 从“LinkSymbolPtr”到“LinkSymbolStack *”的类型不兼容
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(169): warning C4033: “calculate”必须返回值
+  正在生成代码...
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(156): warning C4715: “judgerank”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\main.c(170): warning C4715: “calculate”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(27): warning C4716: “getTopsymbol”: 必须返回一个值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(70): warning C4715: “symbolLength”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(83): warning C4715: “pushsymbol”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(135): warning C4715: “pops”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(168): warning C4716: “getTopLStack”: 必须返回一个值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(211): warning C4715: “LStackLength”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(224): warning C4715: “pushLStack”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第二次培训（2）\qg训练营第二次培训\栈以及栈的应用\四则运算\代码和头文件\calculator\calculator.c(270): warning C4715: “pop”: 不是所有的控件路径都返回值
+  四则运算.vcxproj -> C:\Users\doctor hu\source\repos\四则运算\Debug\四则运算.exe

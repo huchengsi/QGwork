@@ -1,0 +1,28 @@
+﻿  linkedList.c
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\linkedlist.c(48): warning C4028: 形参 1 与声明不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\linkedlist.c(66): warning C4098: “creatlist”:“void”函数返回值
+  main.c
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(10): warning C4098: “sert”:“void”函数返回值
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(46): warning C4047: “函数”:“ElemType *”与“ElemType”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(46): warning C4024: “DeleteList”: 形参和实参 2 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(85): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(111): warning C4013: “exit”未定义；假设外部返回 int
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(122): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(122): warning C4024: “sert”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(123): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(123): warning C4024: “Delete”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(124): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(124): warning C4024: “showList”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(126): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(126): warning C4024: “look”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(127): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(127): warning C4024: “ReverseList”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(128): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(128): warning C4024: “ReverseEvenList”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(129): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(129): warning C4024: “FindMidNode”: 形参和实参 1 的类型不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(130): warning C4047: “函数”:“LinkedList *”与“const LinkedList”的间接级别不同
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\main.c(130): warning C4024: “DestroyList”: 形参和实参 1 的类型不同
+  正在生成代码...
+c:\users\doctor hu\desktop\qg训练营第一次培训\代码和头文件\linklist\linkedlist.c(108): warning C4716: “InsertList”: 必须返回一个值
+  cry.vcxproj -> D:\xuexi  kuaile\c语言练习\cry\Debug\cry.exe
