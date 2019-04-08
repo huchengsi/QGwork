@@ -1,0 +1,7 @@
+﻿  LQueue.c
+c:\users\doctor hu\desktop\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\lq\lqueue.c(17): warning C4098: “InitLQueue”:“void”函数返回值
+c:\users\doctor hu\desktop\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\lq\lqueue.c(37): warning C4098: “DestoryLQueue”:“void”函数返回值
+c:\users\doctor hu\desktop\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\lq\lqueue.c(203): warning C4098: “ClearLQueue”:“void”函数返回值
+c:\users\doctor hu\desktop\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\lq\lqueue.c(87): warning C4715: “GetHeadLQueue”: 不是所有的控件路径都返回值
+c:\users\doctor hu\desktop\qg训练营第三次培训\qg训练营第三次培训\代码和头文件\lq\lqueue.c(142): warning C4715: “EnLQueue”: 不是所有的控件路径都返回值
+  链队列.vcxproj -> D:\xuexi  kuaile\c语言练习\链队列\Debug\链队列.exe
